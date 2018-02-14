@@ -1,0 +1,7 @@
+*.o
+.directory
+.cproject
+.project
+*.swo
+*.swp
+.metadata
