@@ -1,6 +1,6 @@
 Bayesian Network
 ====
-Summer 2013
+Summer 2012
 
 Authors: 
 * João Machado de Freitas 
